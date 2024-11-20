@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC02_CompletableFuture/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC02_CompletableFuture/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC03_Lock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC03_Lock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC04_LockSupport_Interrupt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC04_LockSupport_Interrupt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC05_JMM/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC05_JMM/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC06_volatile_JMM/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC06_volatile_JMM/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC07_CAS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC07_CAS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC08_Atomic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC08_Atomic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC09_ThreadLocal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC09_ThreadLocal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC10_Object_Layout_Headers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC10_Object_Layout_Headers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC11_Synchronized_Lock_Upgrade/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC11_Synchronized_Lock_Upgrade/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC12_AbstractQueuedSynchronizer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC12_AbstractQueuedSynchronizer/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

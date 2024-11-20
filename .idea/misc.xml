@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC01_review/pom.xml" />
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC02_CompletableFuture/pom.xml" />
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC03_Lock/pom.xml" />
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC04_LockSupport_Interrupt/pom.xml" />
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC05_JMM/pom.xml" />
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC06_volatile_JMM/pom.xml" />
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC07_CAS/pom.xml" />
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC07_Atomic/pom.xml" />
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC09_ThreadLocal/pom.xml" />
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC08_Atomic/pom.xml" />
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC10_Object_Layout_Headers/pom.xml" />
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC11_Synchronized_Lock_Upgrade/pom.xml" />
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC12_AbstractQueuedSynchronizer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Study-JUC2022-JUC03_Lock" />
+        <module name="Study-JUC2022-JUC09_ThreadLocal" />
+        <module name="Study-JUC2022-JUC08_Atomic" />
+        <module name="Study-JUC2022-JUC12_AbstractQueuedSynchronizer" />
+        <module name="Study-JUC2022-JUC01_review" />
+        <module name="Study-JUC2022-JUC04_LockSupport_Interrupt" />
+        <module name="Study-JUC2022-JUC05_JMM" />
+        <module name="Study-JUC2022-JUC11_Synchronized_Lock_Upgrade" />
+        <module name="Study-JUC2022-JUC02_CompletableFuture" />
+        <module name="Study-JUC2022-JUC07_CAS" />
+        <module name="Study-JUC2022-JUC06_volatile_JMM" />
+        <module name="Study-JUC2022-JUC10_Object_Layout_Headers" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
