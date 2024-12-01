@@ -13,7 +13,7 @@ import java.util.concurrent.locks.ReentrantLock;
  */
 public class C01_AQSDemo {
     public static void main(String[] args) {
-        ReentrantLock lock = new ReentrantLock();
+        ReentrantLock lock = new ReentrantLock(true);
 
         lock.lock();
         try {

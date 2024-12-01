@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/Study-JUC2022-JUC10_Object_Layout_Headers/pom.xml" />
         <option value="$PROJECT_DIR$/Study-JUC2022-JUC11_Synchronized_Lock_Upgrade/pom.xml" />
         <option value="$PROJECT_DIR$/Study-JUC2022-JUC12_AbstractQueuedSynchronizer/pom.xml" />
+        <option value="$PROJECT_DIR$/Study-JUC2022-JUC13_ReentrantLock_ReentrantReadWriteLock_StampedLock/pom.xml" />
       </list>
     </option>
   </component>

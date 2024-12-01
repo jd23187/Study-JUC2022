@@ -23,6 +23,8 @@
     <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC11_Synchronized_Lock_Upgrade/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC12_AbstractQueuedSynchronizer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC12_AbstractQueuedSynchronizer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC13_ReentrantLock_ReentrantReadWriteLock_StampedLock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Study-JUC2022-JUC13_ReentrantLock_ReentrantReadWriteLock_StampedLock/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

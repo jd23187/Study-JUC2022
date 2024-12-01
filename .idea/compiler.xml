@@ -9,16 +9,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Study-JUC2022-JUC03_Lock" />
         <module name="Study-JUC2022-JUC09_ThreadLocal" />
-        <module name="Study-JUC2022-JUC08_Atomic" />
         <module name="Study-JUC2022-JUC12_AbstractQueuedSynchronizer" />
         <module name="Study-JUC2022-JUC01_review" />
-        <module name="Study-JUC2022-JUC04_LockSupport_Interrupt" />
+        <module name="Study-JUC2022-JUC13_ReentrantLock_ReentrantReadWriteLock_StampedLock" />
         <module name="Study-JUC2022-JUC05_JMM" />
+        <module name="Study-JUC2022-JUC10_Object_Layout_Headers" />
+        <module name="Study-JUC2022-JUC08_Atomic" />
+        <module name="Study-JUC2022-JUC04_LockSupport_Interrupt" />
         <module name="Study-JUC2022-JUC11_Synchronized_Lock_Upgrade" />
         <module name="Study-JUC2022-JUC02_CompletableFuture" />
         <module name="Study-JUC2022-JUC07_CAS" />
         <module name="Study-JUC2022-JUC06_volatile_JMM" />
-        <module name="Study-JUC2022-JUC10_Object_Layout_Headers" />
       </profile>
     </annotationProcessing>
   </component>
